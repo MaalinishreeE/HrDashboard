@@ -1,0 +1,37 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+    height: 100px;
+    margin: 10px;
+  }
+  .card-style{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 46%;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 25px;
+  }
+  .filter-card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 96%;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 25px;
+  }
+  .filter-select{
+    width: 200px;
+    height: 30px;
+    background: none;
+    font-size: 16px;
+    border-bottom: '1px solid grey' ;
+    outline: none;
+  }
+.filter-content{
+    font-size: 20px;
+    padding: 4px;
+}
+  

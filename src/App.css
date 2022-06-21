@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  border: '2px solid #1f4a61';
+}
+
+.header-style {
+  background-color: #555cd8;
+  font-weight: bolder;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
